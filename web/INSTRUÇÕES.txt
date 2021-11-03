@@ -1,0 +1,10 @@
+https://github.com/mysticatea/npm-run-all
+
+Instalação: npm install -D npm-run-all
+
+Permite executar multiplos scripts tanto paralelo quanto sequencial
+
+Exemplo Paralelo:
+-> run-p - deve ser inserido no scrpits EX:
+
+"start:ci": "run-p start:backend start"
