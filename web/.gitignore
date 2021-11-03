@@ -5,7 +5,6 @@
 cypress/videos
 cypress/screenshots
 __MACOSX/web
-cypress
 /.pnp
 .pnp.js
 
